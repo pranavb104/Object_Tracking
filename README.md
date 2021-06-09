@@ -1,7 +1,7 @@
 # Object_Tracking
 Using the Intel RealSense SR300/D435 to cluster objects and have real-time tracking (Using PCL Library)
 
-Check the tracking video on my website https://www.pranavbe.com/white_table/2018/5/8/final-prototype 
+Check the tracking video on vimeo https://vimeo.com/268555005
 
 This example uses the latest librealsense and PCL library(8.1).
 
